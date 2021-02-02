@@ -1,0 +1,41 @@
+body{
+    background: #d8cbdb;
+    padding: 10px;
+    font-family: verdana;
+    width: 900px;
+    margin: auto;
+}
+.photo{
+    border:2px solid black;
+  
+}
+.codigo{
+    width: 100%;
+}
+
+#title{
+    color:rgb(100, 70, 96);
+    font-style:italic ;
+    font-size:35px;
+}
+#subtitle{
+    color: black;
+    font-size:25px;
+}
+.post{
+    background: #ffffff;
+    padding:15px;
+    border: 3px solid black;
+    margin:15px ;
+    border-radius:7px ;
+}
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    
+
+
+}
+.contacts_list {
+list-style-type:circle;
+}
